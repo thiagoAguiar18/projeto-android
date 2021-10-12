@@ -47,6 +47,7 @@ header > h1{
     font-weight: normal;
 }
 header p {
+    padding-bottom: 30px;
     color: white;
     font-size: 1.2em;
     padding: 10px;
